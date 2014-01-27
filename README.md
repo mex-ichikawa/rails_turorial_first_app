@@ -1,3 +1,9 @@
+# Ruby on Rails チュートリアル：サンプルアプリケーション
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+by [Michael Hartl](http://michaelhartl.com/).
+
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +32,5 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
